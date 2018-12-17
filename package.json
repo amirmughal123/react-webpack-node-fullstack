@@ -2,7 +2,7 @@
   "name": "react-redux-webpack-graphql",
   "version": "0.1.0",
   "description": "Webpack 4 and GraphQL",
-  "author": "Ibrahim Zahoor <ibrahim@qbatch.com>",
+  "author": "Amir mughal <amirmughal2009@gmail.com>",
   "main": "server/index.js",
   "scripts": {
     "start": "nodemon server/index.js --watch server --exec babel-node",
